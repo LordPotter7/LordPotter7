@@ -1,61 +1,65 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Lord%20Potter&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20Solution%20Architect&descAlignY=58&descSize=22&animation=fadeIn" width="100%" alt="Lord Potter — AI Solution Architect" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:05070d,40:0b1f3a,100:0e4a8a&text=Lord%20Potter&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=AI%20Solution%20Architect%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Enterprise%20RAG&descAlignY=62&descSize=20&animation=fadeIn" width="100%" alt="Lord Potter, AI Solution Architect" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&lines=Agentic+AI+%26+Multi-Agent+Orchestration;Enterprise+RAG+with+Citation-Backed+Answers;Legacy+Code+Intelligence+for+Mainframes;Auditable%2C+Sovereign+AI+for+Regulated+Industries" alt="capabilities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=760&lines=Production+Generative+AI+for+the+Enterprise;Agentic+Architectures+That+Pass+Audit;Retrieval+Systems+That+Cite+Their+Sources;Sovereign+AI+for+Regulated+Industries" alt="capabilities" />
 
 <br/>
 
-**I build generative AI systems that make it past the demo and into production, with the audit trail to prove it.**
+### I design AI platforms that enterprises can run, audit and trust.
 
-<sub>Rules decide. Models explain. Every answer can be traced back to its source.</sub>
+<sub>Rules decide. Models explain. Every answer traces back to its source.</sub>
 
-<br/><br/>
+<br/>
 
-<a href="#-what-i-architect"><img src="https://img.shields.io/badge/Agentic%20AI-58A6FF?style=for-the-badge&logoColor=white" alt="Agentic AI" /></a>
-<a href="#-what-i-architect"><img src="https://img.shields.io/badge/Enterprise%20RAG-3FB950?style=for-the-badge&logoColor=white" alt="Enterprise RAG" /></a>
-<a href="#-what-i-architect"><img src="https://img.shields.io/badge/LLMOps-BC8CFF?style=for-the-badge&logoColor=white" alt="LLMOps" /></a>
-<a href="#-what-i-architect"><img src="https://img.shields.io/badge/AI%20Security-F78166?style=for-the-badge&logoColor=white" alt="AI Security" /></a>
-<a href="#-what-i-architect"><img src="https://img.shields.io/badge/Sovereign%20Deployment-D29922?style=for-the-badge&logoColor=white" alt="Sovereign Deployment" /></a>
+<img src="https://img.shields.io/badge/GOVERNMENT-0b1f3a?style=for-the-badge" alt="Government" />
+<img src="https://img.shields.io/badge/FINANCIAL%20SERVICES-0b1f3a?style=for-the-badge" alt="Financial Services" />
+<img src="https://img.shields.io/badge/HEAVY%20INDUSTRY-0b1f3a?style=for-the-badge" alt="Heavy Industry" />
+<img src="https://img.shields.io/badge/CONSULTING-0b1f3a?style=for-the-badge" alt="Consulting" />
 
 </div>
 
 <br/>
 
-## 🧭 What I architect
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%"><h2>5</h2><sub><b>production AI platforms</b><br/>architected and shipped</sub></td>
+<td align="center" width="25%"><h2>500+</h2><sub><b>application portfolios</b><br/>sequenced by a rule engine</sub></td>
+<td align="center" width="25%"><h2>Months → Minutes</h2><sub><b>legacy business-rule extraction</b><br/>with source-line citations</sub></td>
+<td align="center" width="25%"><h2>3</h2><sub><b>sovereign deployment modes</b><br/>local, hybrid, connected</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## What I architect
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
-<h3>🤖</h3>
-<h4>Agentic Systems</h4>
-<sub>Multi-agent orchestration and MCP-based skill platforms that domain experts can extend themselves, without touching framework code.</sub>
+<img src="https://img.shields.io/badge/AGENTIC%20SYSTEMS-38BDF8?style=for-the-badge&logoColor=white" alt="Agentic Systems" /><br/><br/>
+<sub>Multi-agent orchestration and MCP-based skill platforms that domain experts extend themselves, without touching framework code.</sub>
 </td>
 <td width="33%" valign="top" align="center">
-<h3>🔎</h3>
-<h4>Enterprise Retrieval</h4>
-<sub>Hybrid RAG where each answer cites the exact source line and checks itself before a person ever sees it.</sub>
+<img src="https://img.shields.io/badge/ENTERPRISE%20RETRIEVAL-34D399?style=for-the-badge&logoColor=white" alt="Enterprise Retrieval" /><br/><br/>
+<sub>Hybrid RAG where each answer cites the exact source line and verifies itself before a person ever sees it.</sub>
 </td>
 <td width="33%" valign="top" align="center">
-<h3>🏛️</h3>
-<h4>Legacy Intelligence</h4>
+<img src="https://img.shields.io/badge/LEGACY%20INTELLIGENCE-A78BFA?style=for-the-badge&logoColor=white" alt="Legacy Intelligence" /><br/><br/>
 <sub>Making COBOL, Assembler and mainframe estates readable again: recovered architecture, extracted business rules, dependency graphs.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center">
-<h3>⚖️</h3>
-<h4>Deterministic Decisioning</h4>
+<img src="https://img.shields.io/badge/DETERMINISTIC%20DECISIONING-FBBF24?style=for-the-badge&logoColor=white" alt="Deterministic Decisioning" /><br/><br/>
 <sub>Planning and sequencing engines where the rules make the call and the model writes the explanation. Repeatable and unit-testable.</sub>
 </td>
 <td width="33%" valign="top" align="center">
-<h3>🛡️</h3>
-<h4>Secure &amp; Sovereign AI</h4>
+<img src="https://img.shields.io/badge/SECURE%20%26%20SOVEREIGN%20AI-F87171?style=for-the-badge&logoColor=white" alt="Secure and Sovereign AI" /><br/><br/>
 <sub>Prompt-injection defense, tenant isolation and scoped tool access, deployable fully offline, hybrid or connected.</sub>
 </td>
 <td width="33%" valign="top" align="center">
-<h3>📡</h3>
-<h4>LLMOps &amp; Observability</h4>
+<img src="https://img.shields.io/badge/LLMOPS%20%26%20OBSERVABILITY-FB923C?style=for-the-badge&logoColor=white" alt="LLMOps and Observability" /><br/><br/>
 <sub>Tracing, evaluation and audit trails built in from the first commit, shipped as real services with CI/CD.</sub>
 </td>
 </tr>
@@ -63,7 +67,30 @@
 
 <br/>
 
-## 🧰 Toolbox
+## How an engagement runs
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-DISCOVER-0b1f3a?style=for-the-badge" alt="Discover" />
+&nbsp;<b>→</b>&nbsp;
+<img src="https://img.shields.io/badge/02-ARCHITECT-0e4a8a?style=for-the-badge" alt="Architect" />
+&nbsp;<b>→</b>&nbsp;
+<img src="https://img.shields.io/badge/03-BUILD-1d6fb8?style=for-the-badge" alt="Build" />
+&nbsp;<b>→</b>&nbsp;
+<img src="https://img.shields.io/badge/04-SECURE-2b8fd9?style=for-the-badge" alt="Secure" />
+&nbsp;<b>→</b>&nbsp;
+<img src="https://img.shields.io/badge/05-OPERATE-38BDF8?style=for-the-badge" alt="Operate" />
+
+<br/><br/>
+
+| Client workshops and requirements engineering | Target architecture, ADRs, technical specs, effort models | Hands-on delivery with the team, CI/CD, integration | Guardrails, authorization scoping, data-sovereignty review | Tracing, evaluation, audit trails, production support |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<br/>
+
+## Toolbox
 
 <div align="center">
 
@@ -91,29 +118,47 @@
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 🎯 How I lead
-
-<div align="center">
-
-| 🗺️ **End-to-end ownership** | 📐 **Architecture as artifact** | 🤝 **Teams, not just designs** |
-|:---:|:---:|:---:|
-| <sub>From the first client workshop through target architecture, integration, security and go-live</sub> | <sub>ADRs, technical specs and test concepts. If it is not written down, it has not been decided.</sub> | <sub>Leading cross-functional delivery teams, running client architecture working groups, mentoring engineers into architects</sub> |
+<img src="https://img.shields.io/badge/Runs%20on-Azure%20%C2%B7%20AWS%20%C2%B7%20On--Prem%20%C2%B7%20Air--Gapped-0b1f3a?style=flat-square" alt="Runs on Azure, AWS, on-prem, air-gapped" />
+<img src="https://img.shields.io/badge/Designed%20for-GDPR%20%C2%B7%20Data%20Sovereignty%20%C2%B7%20Auditability-0b1f3a?style=flat-square" alt="Designed for GDPR, data sovereignty, auditability" />
 
 </div>
 
 <br/>
 
+## How I lead
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<h4>End-to-end ownership</h4>
+<sub>From the first client workshop through target architecture, integration, security and go-live.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<h4>Architecture as a written artifact</h4>
+<sub>ADRs, technical specs and test concepts. If it is not written down, it has not been decided.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<h4>Teams, not just designs</h4>
+<sub>Leading cross-functional delivery teams, running client architecture working groups, mentoring engineers into architects.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-**Happy to talk about agentic architecture, enterprise RAG and auditable AI.**
+### Let's build something your auditors will like.
 
-<img src="https://img.shields.io/badge/Based%20in-Germany-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Germany" />
-<img src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20-000000?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages" />
+<sub>Happy to talk about agentic architecture, enterprise RAG and auditable AI.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Based%20in-Germany-0b1f3a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Germany" />
+<img src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20FA-0b1f3a?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0e4a8a,60:0b1f3a,100:05070d&section=footer" width="100%" alt="" />
