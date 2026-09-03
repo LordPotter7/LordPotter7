@@ -79,45 +79,15 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Runs%20on-Azure%20%C2%B7%20AWS%20%C2%B7%20On--Prem%20%C2%B7%20Air--Gapped-0b1f3a?style=flat-square" alt="Runs on Azure, AWS, on-prem, air-gapped" />
+<img src="https://img.shields.io/badge/Runs%20on-Azure%20%C2%B7%20AWS%20%C2%B7%20On--Prem%20%C2%B7%20Air--Gapped-0b1f3a?style=flat-square" alt="Runs on Azure, AWS, on-prem" />
 <img src="https://img.shields.io/badge/Designed%20for-GDPR%20%C2%B7%20Data%20Sovereignty%20%C2%B7%20Auditability-0b1f3a?style=flat-square" alt="Designed for GDPR, data sovereignty, auditability" />
 
 </div>
 
 <br/>
 
-## How I lead
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-<h4>End-to-end ownership</h4>
-<sub>From the first client workshop through target architecture, integration, security and go-live.</sub>
-</td>
-<td width="33%" valign="top" align="center">
-<h4>Architecture as a written artifact</h4>
-<sub>ADRs, technical specs and test concepts. If it is not written down, it has not been decided.</sub>
-</td>
-<td width="33%" valign="top" align="center">
-<h4>Teams, not just designs</h4>
-<sub>Leading cross-functional delivery teams, running client architecture working groups, mentoring engineers into architects.</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
-
-### Let's build something your auditors will like.
 
 <sub>Happy to talk about agentic architecture, enterprise RAG and auditable AI.</sub>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Based%20in-Germany-0b1f3a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Germany" />
-<img src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20FA-0b1f3a?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages" />
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0e4a8a,60:0b1f3a,100:05070d&section=footer" width="100%" alt="" />
