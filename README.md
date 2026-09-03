@@ -112,7 +112,7 @@
 **Happy to talk about agentic architecture, enterprise RAG and auditable AI.**
 
 <img src="https://img.shields.io/badge/Based%20in-Germany-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Germany" />
-<img src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20FA-000000?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages" />
+<img src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20-000000?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages" />
 
 </div>
 
