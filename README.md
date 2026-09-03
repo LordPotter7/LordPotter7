@@ -12,25 +12,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/GOVERNMENT-0b1f3a?style=for-the-badge" alt="Government" />
-<img src="https://img.shields.io/badge/FINANCIAL%20SERVICES-0b1f3a?style=for-the-badge" alt="Financial Services" />
-<img src="https://img.shields.io/badge/HEAVY%20INDUSTRY-0b1f3a?style=for-the-badge" alt="Heavy Industry" />
-<img src="https://img.shields.io/badge/CONSULTING-0b1f3a?style=for-the-badge" alt="Consulting" />
-
 </div>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%"><h2>5</h2><sub><b>production AI platforms</b><br/>architected and shipped</sub></td>
-<td align="center" width="25%"><h2>500+</h2><sub><b>application portfolios</b><br/>sequenced by a rule engine</sub></td>
-<td align="center" width="25%"><h2>Months → Minutes</h2><sub><b>legacy business-rule extraction</b><br/>with source-line citations</sub></td>
-<td align="center" width="25%"><h2>3</h2><sub><b>sovereign deployment modes</b><br/>local, hybrid, connected</sub></td>
-</tr>
-</table>
-
-<br/>
 
 ## What I architect
 
@@ -64,29 +46,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-## How an engagement runs
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-DISCOVER-0b1f3a?style=for-the-badge" alt="Discover" />
-&nbsp;<b>→</b>&nbsp;
-<img src="https://img.shields.io/badge/02-ARCHITECT-0e4a8a?style=for-the-badge" alt="Architect" />
-&nbsp;<b>→</b>&nbsp;
-<img src="https://img.shields.io/badge/03-BUILD-1d6fb8?style=for-the-badge" alt="Build" />
-&nbsp;<b>→</b>&nbsp;
-<img src="https://img.shields.io/badge/04-SECURE-2b8fd9?style=for-the-badge" alt="Secure" />
-&nbsp;<b>→</b>&nbsp;
-<img src="https://img.shields.io/badge/05-OPERATE-38BDF8?style=for-the-badge" alt="Operate" />
-
-<br/><br/>
-
-| Client workshops and requirements engineering | Target architecture, ADRs, technical specs, effort models | Hands-on delivery with the team, CI/CD, integration | Guardrails, authorization scoping, data-sovereignty review | Tracing, evaluation, audit trails, production support |
-|:---:|:---:|:---:|:---:|:---:|
-
-</div>
 
 <br/>
 
