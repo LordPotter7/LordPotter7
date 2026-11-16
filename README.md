@@ -15,41 +15,6 @@ from proof of concept to production in regulated environments.
 
 <br />
 
-## Proof, not promises
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h2>20+</h2>
-      years building enterprise software, from safety-critical rule engines to LLM platforms
-    </td>
-    <td align="center" width="33%">
-      <h2>5</h2>
-      generative AI platforms architected and shipped to production
-    </td>
-    <td align="center" width="33%">
-      <h2>43 · 36+</h2>
-      MCP tools and agent skills delivered across six analysis domains
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h2>Weeks → 1 min</h2>
-      migration sequencing for 500+ application portfolios, reduced to a single API call
-    </td>
-    <td align="center">
-      <h2>Months → minutes</h2>
-      business-rule documentation per legacy program, with source-line citations
-    </td>
-    <td align="center">
-      <h2>8 · 3 · 1</h2>
-      agents, coordination topologies and one compliance gate replacing weeks of specialist hand-offs
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## What I architect
 
 <table>
@@ -72,7 +37,7 @@ from proof of concept to production in regulated environments.
       <br />
       <img alt="Legacy Intelligence" src="https://img.shields.io/badge/LEGACY%20INTELLIGENCE-A78BFA?style=for-the-badge" />
       <br /><br />
-      Making COBOL, HLASM and z/TPF estates readable again: conversational analysis, recovered architecture, business rules translated for non-technical reviewers, and dependency graphs that expose cycles and single points of failure.
+      Making COBOL, Assembler and mainframe estates readable again: conversational analysis, recovered architecture, business rules translated for non-technical reviewers, and dependency graphs that expose cycles and single points of failure.
       <br /><br />
     </td>
   </tr>
@@ -100,31 +65,6 @@ from proof of concept to production in regulated environments.
     </td>
   </tr>
 </table>
-
-<br />
-
-## How I build
-
-```mermaid
-flowchart LR
-    Q([Request]) --> P[Policy and<br/>business rules]
-    P --> A[Scoped agents<br/>and tools]
-    A --> R[Hybrid retrieval<br/>with citations]
-    R --> V{Self-<br/>verification}
-    V -- pass --> O([Answer with<br/>evidence])
-    V -- fail --> A
-    P -.-> T[(Traces, evals<br/>and audit trail)]
-    A -.-> T
-    R -.-> T
-    V -.-> T
-```
-
-- **Deterministic where it matters, generative where it helps.** If a decision has to be reproduced in an audit, a rule makes it. The model explains, summarizes and translates.
-- **Evidence over assertion.** An answer without a citation is a draft. Verification happens in the pipeline, not in the reader's head.
-- **Least privilege for agents.** Every tool call is scoped to a user, a tenant and a purpose. Agents get the access the task needs and nothing more.
-- **Sovereignty is a deployment mode, not a rewrite.** The same architecture runs air-gapped, hybrid or in the cloud.
-- **Extensible by the people who know the domain.** Skills are contracts written in plain language, so experts add capability without waiting for a framework release.
-- **Architecture is a team sport.** Target and reference architectures, ADRs, client workshops and cost estimates are part of the deliverable, not paperwork around it.
 
 <br />
 
